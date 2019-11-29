@@ -8,5 +8,6 @@ Picture test
 ![test5](https://user-images.githubusercontent.com/47807315/69860772-80643a00-12c9-11ea-98ef-7d5a3af1bde8.jpg)
 
 Result test
+Now, we can read characters and number but can't read province name.
 
 ![test](https://user-images.githubusercontent.com/47807315/69860833-a4c01680-12c9-11ea-92f6-87f6b2a64bbe.PNG)
