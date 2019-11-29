@@ -1,7 +1,7 @@
 # Licenseplate Recognition Thai
 
 + Precision Recognition Thai  language is 80%+ 
-+ We using Fast faster_rcnn_inception_v2_coco_2018_01_28 to train models
++ We using Fast faster_rcnn_inception_v2_coco_2018_01_28 to train models Cr:https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 Picture test
 
