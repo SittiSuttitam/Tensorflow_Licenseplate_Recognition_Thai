@@ -1,0 +1,220 @@
+item {
+  id: 1
+  name: 'licenseplate'
+}
+item {
+  id: 2
+  name: 'gorgai'
+}  
+item {
+  id: 3
+  name: 'korkwaai'
+}  
+item {
+  id: 4
+  name: 'korrakung'
+}  
+item {
+  id: 5
+  name: 'ngorngoo'
+}  
+item {
+  id: 6
+  name: 'jorjaan'
+}  
+item {
+  id: 7
+  name: 'chorching'
+}  
+item {
+  id: 8
+  name: 'chorchang'
+}  
+item {
+  id: 9
+  name: 'sorsoh'
+}  
+item {
+  id: 10
+  name: 'chorcher'
+}  
+item {
+  id: 11
+  name: 'yorying'
+}  
+item {
+  id: 12
+  name: 'dorchada'
+}  
+item {
+  id: 13
+  name: 'tortaan'
+}  
+item {
+  id: 14
+  name: 'nornayn'
+}  
+item {
+  id: 15
+  name: 'dordek'                       
+}  
+item {
+  id: 16
+  name: 'tortao'
+}  
+item {
+  id: 17
+  name: 'tortung'
+}  
+item {
+  id: 18
+  name: 'tortahaan'
+}  
+item {
+  id: 19
+  name: 'tortong'
+}  
+item {
+  id: 20
+  name: 'nornoo'
+}  
+item {
+  id: 21
+  name: 'borbaimai'
+}  
+item {
+  id: 22
+  name: 'porpla'
+}  
+item {
+  id: 23
+  name: 'porping'
+}  
+item {
+  id: 24
+  name: 'porpaan'
+}  
+item {
+  id: 25
+  name: 'forfun'
+}  
+item {
+  id: 26
+  name: 'porsumpao'
+}  
+item {
+  id: 27
+  name: 'mormaa'
+}  
+item {
+  id: 28
+  name: 'yoryuk'
+}  
+item {
+  id: 29
+  name: 'roreua'
+}  
+item {
+  id: 30
+  name: 'lorling'
+}  
+item {
+  id: 31
+  name: 'worwaen'
+}  
+item {
+  id: 32
+  name: 'sorseua'
+}  
+item {
+  id: 33
+  name: 'horheep'
+}  
+item {
+  id: 34
+  name: 'lorjula'
+}  
+item {
+  id: 35
+  name: 'oraang'
+}  
+item {
+  id: 36
+  name: 'hornokhook'
+}
+item {
+  id: 37
+  name: 'korkai'
+} 
+item {
+  id: 38
+  name: 'korkuat'
+}
+item {
+  id: 39
+  name: 'korkon'
+}
+item {
+  id: 40
+  name: 'dtorpadtak'
+}
+item {
+  id: 41
+  name: 'tormontoh'
+}
+item {
+  id: 42
+  name: 'torpootao'
+}
+item {
+  id: 43
+  name: 'forfaa'
+}
+item {
+  id: 44
+  name: 'sorsala'
+}
+item {
+  id: 45
+  name: 'soreusee'
+} 
+item {
+  id: 46
+  name: 'one'
+}  
+item {
+  id: 47
+  name: 'two'
+}  
+item {
+  id: 48
+  name: 'three'
+}  
+item {
+  id: 49
+  name: 'four'
+}  
+item {
+  id: 50
+  name: 'five'
+}  
+item {
+  id: 51
+  name: 'six'
+}  
+item {
+  id: 52
+  name: 'seven'
+}  
+item {
+  id: 53
+  name: 'eight'
+}  
+item {
+  id: 54
+  name: 'nine'
+} 
+item {
+  id: 55
+  name: 'zero'
+} 
